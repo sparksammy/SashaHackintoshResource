@@ -1,0 +1,2 @@
+# SashaHackintoshResource
+Kexts, etc.
